@@ -22,5 +22,8 @@ java hojadevida.HojaDeVida
 ## Requisitos
 
 - JDK 11 o superior
+<<<<<<< HEAD
 
 ## Mi nombre es larry alejandro flores bonilla y este es mi aporte
+=======
+>>>>>>> de69619 (mi primer repositorio 2)

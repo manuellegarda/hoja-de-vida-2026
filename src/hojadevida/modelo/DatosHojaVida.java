@@ -6,23 +6,20 @@ package hojadevida.modelo;
 public class DatosHojaVida {
 
     // ========== PERSONALIZA TUS DATOS AQUÍ ==========
-    private String nombre = "Manuel Arturo Melo Legarda";
-    private String titulo = "]Ingeniero Informático y Tecnólogo en desarrollo en Software";
-    private String ciudad = "Colmbia, Popayán";
-    private String telefono = "+57 317 8538119";
-    private String email = "manuel.melo@unimayor.edu.co";
-    private String github = "github.com/manuellegarda";
+    private String nombre = "Juan David Duran Ibarra";
+    private String titulo = "Estudiante de Estructura de Datos";
+    private String ciudad = "Popayán, Colombia";
+    private String telefono = "+57 304 639 1006";
+    private String email = "jdduran@unimayor.edu.co";
+    private String github = "github.com/duranibarra";
     private String[] habilidadesTecnicas = {"Java", "Git y GitHub", "Programación", "Estructura de Datos"};
     private String[] habilidadesBlandas = {"Trabajo en equipo", "Comunicación", "Resolución de problemas"};
-    private String idiomas = "Español - Nativo\nEnglish - Básico (B2) - Intermedio -";
-    private String perfil = "Docente tiempo completo Institución Universitaria, Diseña algoritmos y programas para solucionar problemas específicos, aplicando el paradigma orientado a objetos.";
+    private String idiomas = "Español - Nativo\nEnglish - Básico (A1)";
+    private String perfil = "Me gusta la programación, tengo interés por mejorar y sacar certificados en el campo.";
     private String experiencia = "2024-2025\n[Cargo] - [Empresa]\n[Ciudad]";
     private String educacion = "2020-2025\n[Carrera] - [Universidad]\n[Ciudad]";
-    private String[] areasInteres = {"Estructura de Datos y algortimos", "Procesamiento de lenguaje natural", "Ingeniería de Software y hardware"};
-    private String proyectos = "• [PLN En detección de emociones] - [deteccion mediante lenguaje natural de emociones en texto]\n" +
-            "• [Simulación de tráfico] - [Simulación de tráfico vehicular utilizando algoritmos de optimización]\n" +
-            "• [Sistema de recomendación] - [Desarrollo de un sistema de recomendación de películas utilizando técnicas de aprendizaje automático]";
-    
+    private String[] areasInteres = {"Estructura de Datos", "Algoritmos", "Ingeniería de Software"};
+    private String proyectos = "• [Nombre del proyecto] - [Breve descripción]";
     // =================================================
 
     public String getNombre() { return nombre; }
