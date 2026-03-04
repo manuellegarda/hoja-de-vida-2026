@@ -6,6 +6,7 @@ package hojadevida.modelo;
 public class DatosHojaVida {
 
     // ========== PERSONALIZA TUS DATOS AQUÍ ==========
+<<<<<<< HEAD
     private String nombre = "Manuel Arturo Melo Legarda";
     private String titulo = "]Ingeniero Informático y Tecnólogo en desarrollo en Software";
     private String ciudad = "Colmbia, Popayán";
@@ -23,6 +24,22 @@ public class DatosHojaVida {
             "• [Simulación de tráfico] - [Simulación de tráfico vehicular utilizando algoritmos de optimización]\n" +
             "• [Sistema de recomendación] - [Desarrollo de un sistema de recomendación de películas utilizando técnicas de aprendizaje automático]";
     
+=======
+    private String nombre = "Luis Miguel Lenis Garcia";
+    private String titulo = "Estudiante de Estructura de Datos";
+    private String ciudad = "Popayán, Colombia";
+    private String telefono = "+57 304 639 1006";
+    private String email = "lmlenis@unimayor.edu.co";
+    private String github = "github.com/lmUnimayor";
+    private String[] habilidadesTecnicas = {"Java", "Git y GitHub", "Programación", "Estructura de Datos"};
+    private String[] habilidadesBlandas = {"Trabajo en equipo", "Comunicación", "Resolución de problemas"};
+    private String idiomas = "Español - Nativo\nEnglish - Básico (A1)";
+    private String perfil = "Me gusta la programación, tengo interés por mejorar y sacar certificados en el campo.";
+    private String experiencia = "2024-2025\n[Cargo] - [Empresa]\n[Ciudad]";
+    private String educacion = "2020-2025\n[Carrera] - [Universidad]\n[Ciudad]";
+    private String[] areasInteres = {"Estructura de Datos", "Algoritmos", "Ingeniería de Software"};
+    private String proyectos = "• [Nombre del proyecto] - [Breve descripción]";
+>>>>>>> de69619 (mi primer repositorio 2)
     // =================================================
 
     public String getNombre() { return nombre; }
