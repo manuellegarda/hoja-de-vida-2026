@@ -10,3 +10,5 @@ Documento para el ejercicio colaborativo.
 # Melany Lesmes Yotengo c: TDS
 ## Miguel Angel Gomez Plaza
 "viva el barza, cule desde la cuna" - este es mi aporte
+## Daniel estiven Lopez velasco
+"VIVA el cali" - este es mi aporte
